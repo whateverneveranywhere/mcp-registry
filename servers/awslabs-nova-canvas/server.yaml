@@ -11,7 +11,7 @@ about:
   icon: https://avatars.githubusercontent.com/u/3299148?v=4
 source:
   project: https://github.com/awslabs/mcp
-  commit: 76ec6993aec4c6281e5250cbeba8db6a5863f2ff
+  commit: 5c68785b745ad7191b3c27df913bd9a569da6a6b
   directory: src/nova-canvas-mcp-server
 config:
   description: Configure AWS credentials for Nova Canvas access
