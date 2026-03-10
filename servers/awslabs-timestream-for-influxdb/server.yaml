@@ -11,7 +11,7 @@ about:
   icon: https://avatars.githubusercontent.com/u/3299148?v=4
 source:
   project: https://github.com/awslabs/mcp
-  commit: 9ac13c221d6cc45937ceddd6a29b90b03161b47a
+  commit: 5c68785b745ad7191b3c27df913bd9a569da6a6b
   directory: src/timestream-for-influxdb-mcp-server
 config:
   description: Configure AWS credentials for Timestream access
